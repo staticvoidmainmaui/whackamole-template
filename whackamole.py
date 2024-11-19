@@ -19,7 +19,7 @@ def main():
             clock.tick(60)
     finally:
         pygame.quit()
-
+#como estas
 
 if __name__ == "__main__":
     main()
